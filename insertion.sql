@@ -30,6 +30,8 @@ VALUES
 (8, 9, 'Celebrating a milestone at work!', CURRENT_TIMESTAMP),
 (9, 10, 'Sunday brunch with family.', CURRENT_TIMESTAMP),
 (10, 6, 'Fitness journey begins today!', CURRENT_TIMESTAMP);
+
+
 Inserting records into the COMMENTS table:
 
 
